@@ -1,0 +1,394 @@
+
+.bg_text{
+    padding: 50px;
+
+
+}
+
+.bg{
+
+    background-image: url(images/Banner\ Image.png);
+    
+    background-repeat: no-repeat;
+    
+    
+    
+
+    background-size:contain;
+    background-position: center;
+    padding-left: 20px;
+    
+    
+
+}
+.first{
+    color: rgb(255, 255, 255);
+    font-family: Merriweather;
+    font-size: 32px;
+    font-weight: 400;  
+    text-align: center;
+}
+
+.snd{
+    color: rgb(255, 255, 255);
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+    
+    text-align: center;
+    
+}
+
+
+.h_1{
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 88px;
+    font-weight: 700;
+    line-height: 107px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+
+.h_5{
+    color: rgb(255, 0, 0);
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+text-align: center;
+
+}
+
+.h_3{
+    color: rgb(7, 2, 17);
+font-family: Inter;
+font-size: 48px;
+font-weight: 700;
+
+
+text-align: center;
+}
+.offer{
+    position: center;
+}
+.img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+    
+
+}
+
+.sec_one{
+    position: center;
+    padding-left: 150px;
+    padding-top: 120px;
+
+}
+.div_cls{
+    background-image: url(images/Vectorrr.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1320px;
+    height: 600px;
+    position: center;
+    padding-left: 50px;
+    border-radius: 16px;
+
+
+
+}
+.sec_h1{
+    color: rgb(255, 255, 255);
+font-family: Merriweather;
+font-size: 64px;
+font-weight: 900;
+
+text-align: left;
+}
+
+.sec_para{
+    color: rgba(255, 255, 255, 0.8);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+  
+    text-align: left;
+}
+
+.sec_button{
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 700;
+    
+    text-align: center;
+}
+
+.sec_text{
+    padding: 126px;
+}
+
+.event{
+    text-align: center;
+    padding: 100px;
+}
+
+.event_t{
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 600;
+    
+    text-align: center;
+    color: rgb(255, 0, 0);
+    
+
+}
+
+.span_t{
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 600;
+    color: black;
+    text-align: center;
+
+}
+.e_btn{
+    border-radius: 8px;
+
+    background: rgb(255, 0, 0);
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 20px;
+   
+    text-align: center;
+    width: 167px;
+    height: 56px;
+    
+}
+
+
+.img_intro{
+    position: center;
+
+    padding: 10px 150px;
+   
+    display: flex;
+    
+   
+    gap: 20px;
+}
+.img_a{
+  
+    padding-left: 10px;
+    gap: 10px;
+}
+
+.sub_img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+    
+  
+}
+.sub{
+    position: center;
+    padding-top: 150px;
+}
+
+.sub_text{
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    
+    text-align: center;
+}
+.sub_h{
+    color: rgb(7, 2, 17);
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;  
+    text-align: center;
+   
+}
+.in{
+    color: rgb(7, 2, 17);
+    font-family: Merriweather;
+    font-size: 48px;
+    font-weight: 900;
+
+    text-align: center;
+    border-radius: 50px;
+
+}
+
+.sub_btn{
+   
+    border-radius: 50px;
+    width: 150px;
+    height: 60px;
+    border-radius: 0px 50px 50px 0px;
+
+    background: rgb(255, 0, 0);
+    color: wheat;
+    gap: 0;
+    border-spacing: 0cap;
+}
+
+.inp{
+    width: 300px;
+    height: 50px;
+    border-radius: 50px;
+    border-radius: 50px 0px 0px 50px;
+    gap: 0;
+    border-spacing: 0cap;
+
+
+background: rgb(255, 255, 255);
+}
+
+#dis_img{
+  
+    padding-right: 300px;
+}
+
+#dis_gift{
+    position:left top;
+}
+
+.dis{
+    background-image: url(images/Rectangle\ 2.png);
+    background-repeat: no-repeat;
+    background-size:auto;
+    background-position: bottom;
+    padding: 30px;
+}
+
+.di_text1{
+    color:black;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+   
+    text-align: center;
+
+}
+.dis_text2{
+    font-family: Merriweather;
+font-size: 72px;
+font-weight: 900;
+
+text-align: center;
+color: red;
+}
+
+.dis_text3{
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+
+    text-align: center;
+
+}
+.fii{
+    color: black;
+}
+
+
+.extra {
+    display: flex;
+    padding: 100px;
+    
+}
+
+.ex_1{
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    color: red;
+    text-align: left;
+}
+
+.ex_2{
+    color: rgb(7, 2, 17);
+font-family: Merriweather;
+font-size: 48px;
+font-weight: 900;
+
+text-align: left;
+}
+
+.ex_3{
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+
+    text-align: left;
+    
+}
+
+.ex_4{
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+  
+    text-align: left;
+}
+
+
+.con{
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+.con_1{
+    background-color: black;
+    width: 1600px;
+    height: 500px;
+    padding: 20px;
+
+}
+
+.textf{
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    
+    
+}
+
+.onef{
+    padding: 100px 100px;
+}
+.twof{
+    padding: 100px 100px;
+}
+
+.icon{
+    display: flex;
+    position: center;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+
+   
+
+}
+.po{
+    position: center;
+    align-items: center; 
+}
+
+footer{
+    padding: 0px;
+}
